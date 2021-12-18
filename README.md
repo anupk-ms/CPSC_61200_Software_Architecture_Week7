@@ -46,3 +46,5 @@ Now you can run the project with this command
 ```
 python manage.py runserver 8090
 ```
+
+Open a browser and enter http://127.0.0.1:8090/
